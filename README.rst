@@ -1,4 +1,4 @@
-pychromecast |Build Status|
+pychromecast (My Version)
 ===========================
 
 .. |Build Status| image:: https://travis-ci.org/balloob/pychromecast.svg?branch=master
